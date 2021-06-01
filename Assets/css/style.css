@@ -1,3 +1,39 @@
 * {
     box-sizing: content-box;
   }
+  .jumbotron {
+    padding: 15px;
+  }
+.white-card{
+  padding: 10px; 
+  background-color: white;
+  border: 2px;
+  border-color: black;
+  border-style: solid;
+}
+.weather-icon {
+  width: 60px;
+}
+
+.icon-small {
+  width: 40px;
+}
+
+.h5 {
+  font-size: 80%;
+}
+
+.card {
+  background-color: rgb(27, 26, 82);
+}
+.card p{
+  font-size: 80%;
+}
+
+.cityName{
+  padding-left:50px;
+}
+.current-weather {
+  border: 3px;
+  color: black;
+}
